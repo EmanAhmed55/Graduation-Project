@@ -24,17 +24,13 @@ Additionally, the application provides a segmentation tool to help doctors segme
 - **Machine Learning**:
     - **CNN (Convolutional Neural Network)**: Used for image classification.
     - **VGG16**: A pre-trained model used for the classification of brain MRI images.
-- **MySQL**: For storing user data, image metadata, and review information.
+
 
 ## Installation
 
 ### Prerequisites
 - Python 3.x
-- MySQL
 - Flask
 - Other Python libraries: `tensorflow`, `keras`, `numpy`, `pandas`, `opencv-python`, etc.
 
-### Steps to Install
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/brain-tumor-classification.git
+
